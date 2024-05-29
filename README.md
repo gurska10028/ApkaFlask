@@ -1,7 +1,16 @@
-# Product Data Scraper
+# ApkaFlask
 
-Product Data Scraper to aplikacja webowa stworzona w Flask, która umożliwia pobieranie, przetwarzanie i przechowywanie danych produktów z różnych platform e-commerce takich jak Amazon, Allegro, eBay oraz innych małych e-commerce.
+Product ApkaFlask to aplikacja webowa stworzona w Flask, która umożliwia pobieranie, przetwarzanie i przechowywanie danych.
 
+Aplikacja zbiera następujące informacje o produktach:
+- Adresy email sklepów (jeśli dostępne)
+- Recenzje produktów
+- Opisy produktów
+- Ceny produktów
+
+Miejsce pobierania:
+-sklepy internetowe (do wyboru własnego)
+  
 ## Technologie
 
 Projekt wykorzystuje:
@@ -10,14 +19,6 @@ Projekt wykorzystuje:
 - BeautifulSoup
 - MongoDB
 - Docker
-
-## Funkcjonalności
-
-Aplikacja zbiera następujące informacje o produktach:
-- Adresy email sklepów (jeśli dostępne)
-- Recenzje produktów
-- Opisy produktów
-- Ceny produktów
 
 ## Instalacja
 
@@ -30,6 +31,6 @@ Upewnij się, że masz zainstalowane:
 - Docker
 - Docker Compose
 
-
+https://github.com/gurska10028/ApkaFlask.git
 
 
