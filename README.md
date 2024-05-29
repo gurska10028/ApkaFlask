@@ -30,8 +30,6 @@ Upewnij się, że masz zainstalowane:
 - Docker
 - Docker Compose
 
-### Klonowanie repozytorium
 
-```bash
-git clone https://github.com/twoje-username/product-data-scraper.git
-cd product-data-scraper
+
+
